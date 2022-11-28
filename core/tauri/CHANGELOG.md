@@ -1,5 +1,10 @@
 # Changelog
 
+## \[1.2.2]
+
+- Fix compatibility with older Linux distributions.
+  - [b490308c](https://www.github.com/tauri-apps/tauri/commit/b490308c8897b893292951754607c2253abbc6e1) fix(core): compilation error on older Linux versions, fixes [#5684](https://www.github.com/tauri-apps/tauri/pull/5684) ([#5697](https://www.github.com/tauri-apps/tauri/pull/5697)) on 2022-11-28
+
 ## \[1.2.1]
 
 - Fixes a double serialization on the IPC.
